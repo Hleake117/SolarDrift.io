@@ -1,0 +1,89 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+{
+  "name": "SolarDrift.io – Unity Game Development Rules",
+  "description": "Ruleset for developing SolarDrift.io, a WebGL-compatible multiplayer Unity game where players control growing suns and orbiting planets. Prioritize performance, clean structure, and game-specific logic.",
+  "rules": [
+    {
+      "match": "**/*.cs",
+      "rules": [
+        {
+          "description": "Structure game scripts into modular components: one script per responsibility (e.g., SunController.cs, OrbitManager.cs, PlanetBehavior.cs).",
+          "enforcement": "must"
+        },
+        {
+          "description": "Always use [SerializeField] for exposed variables instead of public. Use properties or methods for access.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Use Mirror Networking for multiplayer features. All networked scripts must inherit from NetworkBehaviour.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Use [SyncVar] for mass, position, orbit data. Use [Command] and [ClientRpc] for state changes across clients.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Never use System.IO, file writes, or StreamingAssets due to WebGL limitations. Use Resources or Addressables instead.",
+          "enforcement": "must not"
+        },
+        {
+          "description": "All orbiting planets must rotate using Transform.RotateAround or a custom orbital math function. Rotation should be stable and based on orbit index and sun mass.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Player sun movement should be smooth and physics-like, using interpolation toward the mouse/touch position with configurable acceleration and drag.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Use ScriptableObjects to store planet types, orbit parameters, color palettes, and rarity data.",
+          "enforcement": "should"
+        },
+        {
+          "description": "Use object pooling for light particles, VFX, fragments, and shattered planets to reduce GC allocations and improve WebGL performance.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Use custom tags or layers to detect interactions between suns, planets, and light objects.",
+          "enforcement": "should"
+        },
+        {
+          "description": "Mass growth should unlock new orbital slots for planets, which are automatically filled if the player has enough resources.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Planet collision should trigger a shatter system where fragments are generated and pulled toward the nearest sun with the highest mass.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Each planet must have a unique appearance selected randomly from a sprite pool and enhanced with a glow, trail, or rotation effect.",
+          "enforcement": "should"
+        },
+        {
+          "description": "UI elements (mass meter, leaderboard, orbit count) must update in real time and reflect synced network data.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Always organize scripts into one of these folders: Scripts/Entities/, Scripts/Systems/, Scripts/Managers/, Scripts/UI/.",
+          "enforcement": "must"
+        },
+        {
+          "description": "All generated code must follow Unity C# conventions (PascalCase for classes, camelCase for variables, no underscores).",
+          "enforcement": "must"
+        },
+        {
+          "description": "Do not generate monolithic managers that control too many systems. Use single-responsibility components that communicate via UnityEvents or C# delegates.",
+          "enforcement": "must"
+        },
+        {
+          "description": "Every public method must be documented with XML summary comments for clarity and future integration.",
+          "enforcement": "should"
+        }
+      ]
+    }
+  ]
+}
+

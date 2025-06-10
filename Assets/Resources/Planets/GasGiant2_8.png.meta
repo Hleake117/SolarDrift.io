@@ -1,0 +1,4030 @@
+fileFormatVersion: 2
+guid: ee7b07b55231cf04ea228cb421b38504
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6028940214365527267
+    second: GasGiant2_8_0
+  - first:
+      213: -1791540077789129815
+    second: GasGiant2_8_1
+  - first:
+      213: -63245639217499809
+    second: GasGiant2_8_2
+  - first:
+      213: -4234828234948743162
+    second: GasGiant2_8_3
+  - first:
+      213: -2142146296770228652
+    second: GasGiant2_8_4
+  - first:
+      213: -7889292755414871249
+    second: GasGiant2_8_5
+  - first:
+      213: -3140789686073749334
+    second: GasGiant2_8_6
+  - first:
+      213: 3152315454424550222
+    second: GasGiant2_8_7
+  - first:
+      213: -8799922330214886611
+    second: GasGiant2_8_8
+  - first:
+      213: 2353092305997980616
+    second: GasGiant2_8_9
+  - first:
+      213: -6917014386027353872
+    second: GasGiant2_8_10
+  - first:
+      213: -8880306590540212961
+    second: GasGiant2_8_11
+  - first:
+      213: -8278101123602277554
+    second: GasGiant2_8_12
+  - first:
+      213: 4648198596822716760
+    second: GasGiant2_8_13
+  - first:
+      213: -1456409644164666127
+    second: GasGiant2_8_14
+  - first:
+      213: 8373624933016933494
+    second: GasGiant2_8_15
+  - first:
+      213: 7152043690746402421
+    second: GasGiant2_8_16
+  - first:
+      213: -2396133209623638132
+    second: GasGiant2_8_17
+  - first:
+      213: -8322777334332603460
+    second: GasGiant2_8_18
+  - first:
+      213: 3220490378966998650
+    second: GasGiant2_8_19
+  - first:
+      213: -3428185349358260803
+    second: GasGiant2_8_20
+  - first:
+      213: -3583491959225943518
+    second: GasGiant2_8_21
+  - first:
+      213: -5354401203475055733
+    second: GasGiant2_8_22
+  - first:
+      213: 606443082008860312
+    second: GasGiant2_8_23
+  - first:
+      213: -2359581143145729565
+    second: GasGiant2_8_24
+  - first:
+      213: 5157814727358439902
+    second: GasGiant2_8_25
+  - first:
+      213: 7210062091095244496
+    second: GasGiant2_8_26
+  - first:
+      213: 1138258855847152015
+    second: GasGiant2_8_27
+  - first:
+      213: 8706035568374681077
+    second: GasGiant2_8_28
+  - first:
+      213: 691085893202309736
+    second: GasGiant2_8_29
+  - first:
+      213: 4592319731325978383
+    second: GasGiant2_8_30
+  - first:
+      213: -2947910803218432896
+    second: GasGiant2_8_31
+  - first:
+      213: 4168232373628684582
+    second: GasGiant2_8_32
+  - first:
+      213: -4188469484941708321
+    second: GasGiant2_8_33
+  - first:
+      213: -1433824212375633532
+    second: GasGiant2_8_34
+  - first:
+      213: 3714289928489100435
+    second: GasGiant2_8_35
+  - first:
+      213: 5358805756985130221
+    second: GasGiant2_8_36
+  - first:
+      213: 1052190664156014246
+    second: GasGiant2_8_37
+  - first:
+      213: -3693908252876675561
+    second: GasGiant2_8_38
+  - first:
+      213: 4639729756237767493
+    second: GasGiant2_8_39
+  - first:
+      213: -9181122829035471058
+    second: GasGiant2_8_40
+  - first:
+      213: -2764585332307390323
+    second: GasGiant2_8_41
+  - first:
+      213: -2916565266166964594
+    second: GasGiant2_8_42
+  - first:
+      213: -3597219904515857246
+    second: GasGiant2_8_43
+  - first:
+      213: -5428315262441322000
+    second: GasGiant2_8_44
+  - first:
+      213: 5824283188062983310
+    second: GasGiant2_8_45
+  - first:
+      213: -1951169685533292315
+    second: GasGiant2_8_46
+  - first:
+      213: -5577125073717842294
+    second: GasGiant2_8_47
+  - first:
+      213: 4368109968001586838
+    second: GasGiant2_8_48
+  - first:
+      213: -8970284401646943807
+    second: GasGiant2_8_49
+  - first:
+      213: 3438145074768728953
+    second: GasGiant2_8_50
+  - first:
+      213: -5094267096790969305
+    second: GasGiant2_8_51
+  - first:
+      213: 538268492138229695
+    second: GasGiant2_8_52
+  - first:
+      213: 9205256714520255103
+    second: GasGiant2_8_53
+  - first:
+      213: 2992691678964992309
+    second: GasGiant2_8_54
+  - first:
+      213: 5567381139428136855
+    second: GasGiant2_8_55
+  - first:
+      213: -4983394058893693172
+    second: GasGiant2_8_56
+  - first:
+      213: -928888160045721320
+    second: GasGiant2_8_57
+  - first:
+      213: -4941992147897652623
+    second: GasGiant2_8_58
+  - first:
+      213: -8213138217503725114
+    second: GasGiant2_8_59
+  - first:
+      213: 5750596668402370162
+    second: GasGiant2_8_60
+  - first:
+      213: -1105109313246758960
+    second: GasGiant2_8_61
+  - first:
+      213: -378095765116933306
+    second: GasGiant2_8_62
+  - first:
+      213: -3643136168795601416
+    second: GasGiant2_8_63
+  - first:
+      213: 1117809186873966416
+    second: GasGiant2_8_64
+  - first:
+      213: -5592945757339605412
+    second: GasGiant2_8_65
+  - first:
+      213: 7528415866328591933
+    second: GasGiant2_8_66
+  - first:
+      213: 6862393520616662077
+    second: GasGiant2_8_67
+  - first:
+      213: -1136159152427278561
+    second: GasGiant2_8_68
+  - first:
+      213: 9009943692082809819
+    second: GasGiant2_8_69
+  - first:
+      213: 6572152527588576854
+    second: GasGiant2_8_70
+  - first:
+      213: -794750295948651689
+    second: GasGiant2_8_71
+  - first:
+      213: -2536849517497319975
+    second: GasGiant2_8_72
+  - first:
+      213: 7647311526240030443
+    second: GasGiant2_8_73
+  - first:
+      213: -4853892608410622752
+    second: GasGiant2_8_74
+  - first:
+      213: -5710499869051170237
+    second: GasGiant2_8_75
+  - first:
+      213: 8922552584986821164
+    second: GasGiant2_8_76
+  - first:
+      213: 495546802248110214
+    second: GasGiant2_8_77
+  - first:
+      213: 3511435866171915415
+    second: GasGiant2_8_78
+  - first:
+      213: 309993804164895532
+    second: GasGiant2_8_79
+  - first:
+      213: -1593522831564158080
+    second: GasGiant2_8_80
+  - first:
+      213: 1877942653535227541
+    second: GasGiant2_8_81
+  - first:
+      213: -7466727724948786176
+    second: GasGiant2_8_82
+  - first:
+      213: -5461304337678325999
+    second: GasGiant2_8_83
+  - first:
+      213: -2826255961301630889
+    second: GasGiant2_8_84
+  - first:
+      213: -1504842365052216220
+    second: GasGiant2_8_85
+  - first:
+      213: 6787684809369738398
+    second: GasGiant2_8_86
+  - first:
+      213: 5475560683624365576
+    second: GasGiant2_8_87
+  - first:
+      213: -3611722913264593654
+    second: GasGiant2_8_88
+  - first:
+      213: -7806718027484103085
+    second: GasGiant2_8_89
+  - first:
+      213: -6805062442160947869
+    second: GasGiant2_8_90
+  - first:
+      213: 4005935476546387948
+    second: GasGiant2_8_91
+  - first:
+      213: 3283576335258860111
+    second: GasGiant2_8_92
+  - first:
+      213: 3599843286739144151
+    second: GasGiant2_8_93
+  - first:
+      213: 9070815400808221375
+    second: GasGiant2_8_94
+  - first:
+      213: -7275766073554722114
+    second: GasGiant2_8_95
+  - first:
+      213: 3763268448436982712
+    second: GasGiant2_8_96
+  - first:
+      213: -8573029717929933974
+    second: GasGiant2_8_97
+  - first:
+      213: -4519773286333973728
+    second: GasGiant2_8_98
+  - first:
+      213: -8785825970251293590
+    second: GasGiant2_8_99
+  - first:
+      213: -6519817329550374123
+    second: GasGiant2_8_100
+  - first:
+      213: -4842592469364520286
+    second: GasGiant2_8_101
+  - first:
+      213: -1777746698960270181
+    second: GasGiant2_8_102
+  - first:
+      213: 2888147678201415182
+    second: GasGiant2_8_103
+  - first:
+      213: 222264778364921396
+    second: GasGiant2_8_104
+  - first:
+      213: -7737811658036607233
+    second: GasGiant2_8_105
+  - first:
+      213: 4971669599855480313
+    second: GasGiant2_8_106
+  - first:
+      213: -2201701043903254730
+    second: GasGiant2_8_107
+  - first:
+      213: -4050715118000177051
+    second: GasGiant2_8_108
+  - first:
+      213: 2183716565799095061
+    second: GasGiant2_8_109
+  - first:
+      213: -6711926261001648791
+    second: GasGiant2_8_110
+  - first:
+      213: 2810851366769533586
+    second: GasGiant2_8_111
+  - first:
+      213: 5379181910595982855
+    second: GasGiant2_8_112
+  - first:
+      213: 5745661573625053148
+    second: GasGiant2_8_113
+  - first:
+      213: -7267934732306250538
+    second: GasGiant2_8_114
+  - first:
+      213: 4702537317429676180
+    second: GasGiant2_8_115
+  - first:
+      213: 5584639080294734056
+    second: GasGiant2_8_116
+  - first:
+      213: -669459537885552436
+    second: GasGiant2_8_117
+  - first:
+      213: -6224076815832002050
+    second: GasGiant2_8_118
+  - first:
+      213: -6035863845652992981
+    second: GasGiant2_8_119
+  - first:
+      213: 9059916245631857837
+    second: GasGiant2_8_120
+  - first:
+      213: 8631512946263548122
+    second: GasGiant2_8_121
+  - first:
+      213: -5407452045072809847
+    second: GasGiant2_8_122
+  - first:
+      213: -4030019856579281130
+    second: GasGiant2_8_123
+  - first:
+      213: 4345332422042361760
+    second: GasGiant2_8_124
+  - first:
+      213: -2308582271676495449
+    second: GasGiant2_8_125
+  - first:
+      213: 4369336573021309454
+    second: GasGiant2_8_126
+  - first:
+      213: -5402363131016429325
+    second: GasGiant2_8_127
+  - first:
+      213: 7445770409681233760
+    second: GasGiant2_8_128
+  - first:
+      213: 670605309814484952
+    second: GasGiant2_8_129
+  - first:
+      213: 3503499339378577022
+    second: GasGiant2_8_130
+  - first:
+      213: -3198759450649583024
+    second: GasGiant2_8_131
+  - first:
+      213: -3018175417392349739
+    second: GasGiant2_8_132
+  - first:
+      213: 6663355353133389931
+    second: GasGiant2_8_133
+  - first:
+      213: -8665193166599211949
+    second: GasGiant2_8_134
+  - first:
+      213: 4503003245281444772
+    second: GasGiant2_8_135
+  - first:
+      213: 8419135370260471882
+    second: GasGiant2_8_136
+  - first:
+      213: 961224214236799198
+    second: GasGiant2_8_137
+  - first:
+      213: -2740518986485911659
+    second: GasGiant2_8_138
+  - first:
+      213: 6066301015026685088
+    second: GasGiant2_8_139
+  - first:
+      213: 2708344494030435755
+    second: GasGiant2_8_140
+  - first:
+      213: -7441387689259804381
+    second: GasGiant2_8_141
+  - first:
+      213: 7341702513492620604
+    second: GasGiant2_8_142
+  - first:
+      213: 8763547228011155286
+    second: GasGiant2_8_143
+  - first:
+      213: -1338334548347839526
+    second: GasGiant2_8_144
+  - first:
+      213: 1920239408923860030
+    second: GasGiant2_8_145
+  - first:
+      213: -7165893005113741796
+    second: GasGiant2_8_146
+  - first:
+      213: 1578958071518112851
+    second: GasGiant2_8_147
+  - first:
+      213: -7481387151550163548
+    second: GasGiant2_8_148
+  - first:
+      213: -9217267203621892247
+    second: GasGiant2_8_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GasGiant2_8_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 9543
+        width: 351
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13eca651d6e45ca0800000000000000
+      internalID: -6028940214365527267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_1
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 9541
+        width: 351
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3d08e8acb2327e0800000000000000
+      internalID: -1791540077789129815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_2
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 9541
+        width: 351
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5139dc1d6e4f1ff0800000000000000
+      internalID: -63245639217499809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_3
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 9540
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600f51b482eda35c0800000000000000
+      internalID: -4234828234948743162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_4
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 9536
+        width: 351
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e871cea419542e0800000000000000
+      internalID: -2142146296770228652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_5
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 9534
+        width: 351
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f231f68c90a938290800000000000000
+      internalID: -7889292755414871249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_6
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 9532
+        width: 351
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa01d5fcb6ca964d0800000000000000
+      internalID: -3140789686073749334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_7
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 9530
+        width: 351
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b03f044364fbb20800000000000000
+      internalID: 3152315454424550222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_8
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 9530
+        width: 351
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d239380c34560e580800000000000000
+      internalID: -8799922330214886611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_9
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 9530
+        width: 351
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3e6be2cfcd7a020800000000000000
+      internalID: 2353092305997980616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_10
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 9530
+        width: 351
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8a2965014d100a0800000000000000
+      internalID: -6917014386027353872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_11
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 9530
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f155a4ea430d2c480800000000000000
+      internalID: -8880306590540212961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_12
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 9532
+        width: 351
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b9ce823e64e1d80800000000000000
+      internalID: -8278101123602277554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_13
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 9533
+        width: 351
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85156112ff7b18040800000000000000
+      internalID: 4648198596822716760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_14
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 9535
+        width: 351
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcac10252bc9cbe0800000000000000
+      internalID: -1456409644164666127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 8476
+        width: 351
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67414ded287153470800000000000000
+      internalID: 8373624933016933494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_16
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 8476
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5765305f7d9214360800000000000000
+      internalID: 7152043690746402421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_17
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 8476
+        width: 351
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fcdd58a893fbed0800000000000000
+      internalID: -2396133209623638132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_18
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 8476
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3ce624c1e8f7c80800000000000000
+      internalID: -8322777334332603460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_19
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 8477
+        width: 351
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e14e0dfea71bc20800000000000000
+      internalID: 3220490378966998650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_20
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 8479
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6d4b8693ac60d0800000000000000
+      internalID: -3428185349358260803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_21
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 8480
+        width: 351
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a7eda9c01e44ec0800000000000000
+      internalID: -3583491959225943518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_22
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 8478
+        width: 351
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bf1f9697851b5b0800000000000000
+      internalID: -5354401203475055733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_23
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 8477
+        width: 351
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89691af15c48a6800800000000000000
+      internalID: 606443082008860312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_24
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 8477
+        width: 351
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b610b375114fd0800000000000000
+      internalID: -2359581143145729565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_25
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 8477
+        width: 351
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed16a71da2d349740800000000000000
+      internalID: 5157814727358439902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_26
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 8479
+        width: 351
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0defd3475494f0460800000000000000
+      internalID: 7210062091095244496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_27
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 8481
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89463d0668ebcf00800000000000000
+      internalID: 1138258855847152015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_28
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 8483
+        width: 351
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd83ee093d02d870800000000000000
+      internalID: 8706035568374681077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_29
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 8485
+        width: 351
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8627b9555fa379900800000000000000
+      internalID: 691085893202309736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_30
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 7434
+        width: 351
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07c3b8e6723bbf30800000000000000
+      internalID: 4592319731325978383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_31
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 7431
+        width: 351
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cf0a04ebae617d0800000000000000
+      internalID: -2947910803218432896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_32
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 7428
+        width: 351
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629cb63724988d930800000000000000
+      internalID: 4168232373628684582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_33
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 7426
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd37c75e1319fd5c0800000000000000
+      internalID: -4188469484941708321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_34
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 7425
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4810ffeb9780a1ce0800000000000000
+      internalID: -1433824212375633532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_35
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 7424
+        width: 351
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3946764c20fcb8330800000000000000
+      internalID: 3714289928489100435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_36
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 7424
+        width: 351
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decba6d917d4e5a40800000000000000
+      internalID: 5358805756985130221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_37
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 7425
+        width: 351
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6600595d12a9e00800000000000000
+      internalID: 1052190664156014246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_38
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 7424
+        width: 351
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716e662e30a9cbcc0800000000000000
+      internalID: -3693908252876675561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_39
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 7421
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ac5681a1a36040800000000000000
+      internalID: 4639729756237767493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_40
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 7419
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f7c104e69169080800000000000000
+      internalID: -9181122829035471058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_41
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 7417
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d801094a94832a9d0800000000000000
+      internalID: -2764585332307390323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_42
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 7416
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e10e1d7574687d0800000000000000
+      internalID: -2916565266166964594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_43
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 7416
+        width: 351
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a42e544e8b141ec0800000000000000
+      internalID: -3597219904515857246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_44
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 7416
+        width: 351
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f98a5d7700caa4b0800000000000000
+      internalID: -5428315262441322000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_45
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6363
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8416cf73b204d050800000000000000
+      internalID: 5824283188062983310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_46
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 6364
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8074d328d0ce4e0800000000000000
+      internalID: -1951169685533292315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_47
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 6366
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eaf195b421a92b0800000000000000
+      internalID: -5577125073717842294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_48
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 6369
+        width: 351
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d3966fd4ae9c30800000000000000
+      internalID: 4368109968001586838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_49
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 6371
+        width: 351
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c14b910dd5238380800000000000000
+      internalID: -8970284401646943807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_50
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 6373
+        width: 351
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97359dbbabeb6bf20800000000000000
+      internalID: 3438145074768728953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_51
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 6376
+        width: 351
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72450d8e0178d49b0800000000000000
+      internalID: -5094267096790969305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_52
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 6374
+        width: 351
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf2fab7750587700800000000000000
+      internalID: 538268492138229695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_53
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 6370
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a5247d534afbf70800000000000000
+      internalID: 9205256714520255103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_54
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 6367
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539c9fed93d288920800000000000000
+      internalID: 2992691678964992309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_55
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 6365
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d2d826af434d40800000000000000
+      internalID: 5567381139428136855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_56
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 6363
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f69dfa18d67dab0800000000000000
+      internalID: -4983394058893693172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_57
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 6362
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8199860d32deb13f0800000000000000
+      internalID: -928888160045721320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_58
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 6361
+        width: 351
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a6ac543548a6bb0800000000000000
+      internalID: -4941992147897652623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_59
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 6361
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c961866e42150e80800000000000000
+      internalID: -8213138217503725114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_60
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5308
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2760ba2b3393ecf40800000000000000
+      internalID: 5750596668402370162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_61
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 5309
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d773f94fecd9a0f0800000000000000
+      internalID: -1105109313246758960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_62
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 5312
+        width: 351
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b2025a7ebb0caf0800000000000000
+      internalID: -378095765116933306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_63
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 5313
+        width: 351
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f58f86e4faf07dc0800000000000000
+      internalID: -3643136168795601416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_64
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 5315
+        width: 351
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f7a467881438f00800000000000000
+      internalID: 1117809186873966416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_65
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 5317
+        width: 351
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56aeb5677dd162b0800000000000000
+      internalID: -5592945757339605412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_66
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 5315
+        width: 351
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e2ee9d75e4a7860800000000000000
+      internalID: 7528415866328591933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_67
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 5313
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d346c496c8e1c3f50800000000000000
+      internalID: 6862393520616662077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_68
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 5312
+        width: 351
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f534f354d8b30f0800000000000000
+      internalID: -1136159152427278561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_69
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 5312
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb0edc1d00c90d70800000000000000
+      internalID: 9009943692082809819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_70
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 5313
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4a9037e9f43b50800000000000000
+      internalID: 6572152527588576854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_71
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 5314
+        width: 351
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75318dc01da78f4f0800000000000000
+      internalID: -794750295948651689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_72
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 5316
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd73fcfdcc4bccd0800000000000000
+      internalID: -2536849517497319975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_73
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 5315
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee8940e055b02a60800000000000000
+      internalID: 7647311526240030443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_74
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 5313
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e46ac1c36283acb0800000000000000
+      internalID: -4853892608410622752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_75
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4257
+        width: 351
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3425a47ef9a30c0b0800000000000000
+      internalID: -5710499869051170237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_76
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 4257
+        width: 351
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2202e56d4643db70800000000000000
+      internalID: 8922552584986821164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_77
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 4256
+        width: 351
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680549de03980e600800000000000000
+      internalID: 495546802248110214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_78
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 4256
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c3ebed0502bb030800000000000000
+      internalID: 3511435866171915415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_79
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 4254
+        width: 351
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2312d3f8b15d4400800000000000000
+      internalID: 309993804164895532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_80
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 4253
+        width: 351
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bc4237d6ba2e9e0800000000000000
+      internalID: -1593522831564158080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_81
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 4252
+        width: 351
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e8584c4eacf0a10800000000000000
+      internalID: 1877942653535227541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_82
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 4252
+        width: 351
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004fddfc1bad06890800000000000000
+      internalID: -7466727724948786176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_83
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 4253
+        width: 351
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117226ed3ac8534b0800000000000000
+      internalID: -5461304337678325999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_84
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 4254
+        width: 351
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75049466d2f17c8d0800000000000000
+      internalID: -2826255961301630889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_85
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 4255
+        width: 351
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c9a1c87d9bd1be0800000000000000
+      internalID: -1504842365052216220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_86
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 4258
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c5cc51f53b23e50800000000000000
+      internalID: 6787684809369738398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_87
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 4261
+        width: 351
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e76855e691dfb40800000000000000
+      internalID: 5475560683624365576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_88
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 4264
+        width: 351
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0599b7652590edc0800000000000000
+      internalID: -3611722913264593654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_89
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 4265
+        width: 351
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35efb26d057f8a390800000000000000
+      internalID: -7806718027484103085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_90
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3204
+        width: 351
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36df4ac73cf8f81a0800000000000000
+      internalID: -6805062442160947869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_91
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3202
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefbea07711f79730800000000000000
+      internalID: 4005935476546387948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_92
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 3201
+        width: 351
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4abbff974b919d20800000000000000
+      internalID: 3283576335258860111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_93
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 3200
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd4921856635f130800000000000000
+      internalID: 3599843286739144151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_94
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 3200
+        width: 351
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba015c3c8202ed70800000000000000
+      internalID: 9070815400808221375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_95
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 3199
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2aee40e49470b90800000000000000
+      internalID: -7275766073554722114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_96
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 3197
+        width: 351
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3958717b0d93430800000000000000
+      internalID: 3763268448436982712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_97
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 3195
+        width: 351
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a634be5b4ea760980800000000000000
+      internalID: -8573029717929933974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_98
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 3194
+        width: 351
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b73c2942a8641c0800000000000000
+      internalID: -4519773286333973728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_99
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 3193
+        width: 351
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c15c054d9721680800000000000000
+      internalID: -8785825970251293590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_100
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 3193
+        width: 351
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bc6b7aea4f485a0800000000000000
+      internalID: -6519817329550374123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_101
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 3194
+        width: 351
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aacb876ec7abccb0800000000000000
+      internalID: -4842592469364520286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_102
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 3195
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c89d3dbcc2457e0800000000000000
+      internalID: -1777746698960270181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_103
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 3197
+        width: 351
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e068012e203c41820800000000000000
+      internalID: 2888147678201415182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_104
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 3199
+        width: 351
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436a58863a4a51300800000000000000
+      internalID: 222264778364921396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_105
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2149
+        width: 351
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60adf2b45cd9490800000000000000
+      internalID: -7737811658036607233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_106
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2148
+        width: 351
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd8ef7f82beef440800000000000000
+      internalID: 4971669599855480313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_107
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2149
+        width: 351
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2a80d09cf171e0800000000000000
+      internalID: -2201701043903254730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_108
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2150
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5608b41df08f8c7c0800000000000000
+      internalID: -4050715118000177051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_109
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 2151
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b479295ae1e4e10800000000000000
+      internalID: 2183716565799095061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_110
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 2153
+        width: 351
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965816e70a27ad2a0800000000000000
+      internalID: -6711926261001648791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_111
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 2156
+        width: 351
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29228b0fc66220720800000000000000
+      internalID: 2810851366769533586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_112
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 2159
+        width: 351
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706d7439271b6aa40800000000000000
+      internalID: 5379181910595982855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_113
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 2157
+        width: 351
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf788762c0bcbf40800000000000000
+      internalID: 5745661573625053148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_114
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 2154
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4892e3edb132b90800000000000000
+      internalID: -7267934732306250538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_115
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 2152
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4980a6c66c4c24140800000000000000
+      internalID: 4702537317429676180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_116
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 2151
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e85bb3a7af908d40800000000000000
+      internalID: 5584639080294734056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_117
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 2150
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0a5d4e81a95b6f0800000000000000
+      internalID: -669459537885552436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_118
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 2149
+        width: 351
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1d691dc13af99a0800000000000000
+      internalID: -6224076815832002050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_119
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 2149
+        width: 351
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cea3fcfcd4c3ca0800000000000000
+      internalID: -6035863845652992981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_120
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1095
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da47dabe2d94bbd70800000000000000
+      internalID: 9059916245631857837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_121
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1097
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0693cfa4b49c770800000000000000
+      internalID: 8631512946263548122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_122
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1100
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980c971d30fd4f4b0800000000000000
+      internalID: -5407452045072809847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_123
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1103
+        width: 351
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f32dada4e7218c0800000000000000
+      internalID: -4030019856579281130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_124
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 1101
+        width: 351
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af92d6b0d8bd4c30800000000000000
+      internalID: 4345332422042361760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_125
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 1098
+        width: 351
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a945f1c7a446ffd0800000000000000
+      internalID: -2308582271676495449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_126
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 1096
+        width: 351
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ace03a67003ac30800000000000000
+      internalID: 4369336573021309454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_127
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 1095
+        width: 351
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f04914fa53f605b0800000000000000
+      internalID: -5402363131016429325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_128
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 1095
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672a2cfcb0b45760800000000000000
+      internalID: 7445770409681233760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_129
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 1094
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfabfbe9f77e4900800000000000000
+      internalID: 670605309814484952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_130
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 1093
+        width: 351
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ec97a361eee9030800000000000000
+      internalID: 3503499339378577022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_131
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 1093
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052ab163a39bb93d0800000000000000
+      internalID: -3198759450649583024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_132
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 1094
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd3388e2794d16d0800000000000000
+      internalID: -3018175417392349739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_133
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 1094
+        width: 351
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6896b3c36ef87c50800000000000000
+      internalID: 6663355353133389931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_134
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 1095
+        width: 351
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35436b2a9bc0fb780800000000000000
+      internalID: -8665193166599211949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_135
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 43
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a38e69f791ed7e30800000000000000
+      internalID: 4503003245281444772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_136
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 46
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a406d444307c6d470800000000000000
+      internalID: 8419135370260471882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_137
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 49
+        width: 351
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a61f7454f65d00800000000000000
+      internalID: 961224214236799198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_138
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 50
+        width: 351
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2b4e6088b7f9d0800000000000000
+      internalID: -2740518986485911659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_139
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 49
+        width: 351
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4d14de1a4df2450800000000000000
+      internalID: 6066301015026685088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_140
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 49
+        width: 351
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5b118c7f8f59520800000000000000
+      internalID: 2708344494030435755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_141
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 45
+        width: 351
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32954b1a251eab890800000000000000
+      internalID: -7441387689259804381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_142
+      rect:
+        serializedVersion: 2
+        x: 7740
+        y: 42
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f15bb987f2e560800000000000000
+      internalID: 7341702513492620604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_143
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 40
+        width: 351
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fc6f9c5cf5e9970800000000000000
+      internalID: 8763547228011155286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_144
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 39
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb181fa1d74d6de0800000000000000
+      internalID: -1338334548347839526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_145
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 38
+        width: 351
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cdc9c819f06aa10800000000000000
+      internalID: 1920239408923860030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_146
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 38
+        width: 351
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e2db34742ad8c90800000000000000
+      internalID: -7165893005113741796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_147
+      rect:
+        serializedVersion: 2
+        x: 13015
+        y: 39
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ca218100699e510800000000000000
+      internalID: 1578958071518112851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_148
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 40
+        width: 351
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55ea41606cc2890800000000000000
+      internalID: -7481387151550163548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasGiant2_8_149
+      rect:
+        serializedVersion: 2
+        x: 15125
+        y: 43
+        width: 351
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f42404050b51080800000000000000
+      internalID: -9217267203621892247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GasGiant2_8_0: -6028940214365527267
+      GasGiant2_8_1: -1791540077789129815
+      GasGiant2_8_10: -6917014386027353872
+      GasGiant2_8_100: -6519817329550374123
+      GasGiant2_8_101: -4842592469364520286
+      GasGiant2_8_102: -1777746698960270181
+      GasGiant2_8_103: 2888147678201415182
+      GasGiant2_8_104: 222264778364921396
+      GasGiant2_8_105: -7737811658036607233
+      GasGiant2_8_106: 4971669599855480313
+      GasGiant2_8_107: -2201701043903254730
+      GasGiant2_8_108: -4050715118000177051
+      GasGiant2_8_109: 2183716565799095061
+      GasGiant2_8_11: -8880306590540212961
+      GasGiant2_8_110: -6711926261001648791
+      GasGiant2_8_111: 2810851366769533586
+      GasGiant2_8_112: 5379181910595982855
+      GasGiant2_8_113: 5745661573625053148
+      GasGiant2_8_114: -7267934732306250538
+      GasGiant2_8_115: 4702537317429676180
+      GasGiant2_8_116: 5584639080294734056
+      GasGiant2_8_117: -669459537885552436
+      GasGiant2_8_118: -6224076815832002050
+      GasGiant2_8_119: -6035863845652992981
+      GasGiant2_8_12: -8278101123602277554
+      GasGiant2_8_120: 9059916245631857837
+      GasGiant2_8_121: 8631512946263548122
+      GasGiant2_8_122: -5407452045072809847
+      GasGiant2_8_123: -4030019856579281130
+      GasGiant2_8_124: 4345332422042361760
+      GasGiant2_8_125: -2308582271676495449
+      GasGiant2_8_126: 4369336573021309454
+      GasGiant2_8_127: -5402363131016429325
+      GasGiant2_8_128: 7445770409681233760
+      GasGiant2_8_129: 670605309814484952
+      GasGiant2_8_13: 4648198596822716760
+      GasGiant2_8_130: 3503499339378577022
+      GasGiant2_8_131: -3198759450649583024
+      GasGiant2_8_132: -3018175417392349739
+      GasGiant2_8_133: 6663355353133389931
+      GasGiant2_8_134: -8665193166599211949
+      GasGiant2_8_135: 4503003245281444772
+      GasGiant2_8_136: 8419135370260471882
+      GasGiant2_8_137: 961224214236799198
+      GasGiant2_8_138: -2740518986485911659
+      GasGiant2_8_139: 6066301015026685088
+      GasGiant2_8_14: -1456409644164666127
+      GasGiant2_8_140: 2708344494030435755
+      GasGiant2_8_141: -7441387689259804381
+      GasGiant2_8_142: 7341702513492620604
+      GasGiant2_8_143: 8763547228011155286
+      GasGiant2_8_144: -1338334548347839526
+      GasGiant2_8_145: 1920239408923860030
+      GasGiant2_8_146: -7165893005113741796
+      GasGiant2_8_147: 1578958071518112851
+      GasGiant2_8_148: -7481387151550163548
+      GasGiant2_8_149: -9217267203621892247
+      GasGiant2_8_15: 8373624933016933494
+      GasGiant2_8_16: 7152043690746402421
+      GasGiant2_8_17: -2396133209623638132
+      GasGiant2_8_18: -8322777334332603460
+      GasGiant2_8_19: 3220490378966998650
+      GasGiant2_8_2: -63245639217499809
+      GasGiant2_8_20: -3428185349358260803
+      GasGiant2_8_21: -3583491959225943518
+      GasGiant2_8_22: -5354401203475055733
+      GasGiant2_8_23: 606443082008860312
+      GasGiant2_8_24: -2359581143145729565
+      GasGiant2_8_25: 5157814727358439902
+      GasGiant2_8_26: 7210062091095244496
+      GasGiant2_8_27: 1138258855847152015
+      GasGiant2_8_28: 8706035568374681077
+      GasGiant2_8_29: 691085893202309736
+      GasGiant2_8_3: -4234828234948743162
+      GasGiant2_8_30: 4592319731325978383
+      GasGiant2_8_31: -2947910803218432896
+      GasGiant2_8_32: 4168232373628684582
+      GasGiant2_8_33: -4188469484941708321
+      GasGiant2_8_34: -1433824212375633532
+      GasGiant2_8_35: 3714289928489100435
+      GasGiant2_8_36: 5358805756985130221
+      GasGiant2_8_37: 1052190664156014246
+      GasGiant2_8_38: -3693908252876675561
+      GasGiant2_8_39: 4639729756237767493
+      GasGiant2_8_4: -2142146296770228652
+      GasGiant2_8_40: -9181122829035471058
+      GasGiant2_8_41: -2764585332307390323
+      GasGiant2_8_42: -2916565266166964594
+      GasGiant2_8_43: -3597219904515857246
+      GasGiant2_8_44: -5428315262441322000
+      GasGiant2_8_45: 5824283188062983310
+      GasGiant2_8_46: -1951169685533292315
+      GasGiant2_8_47: -5577125073717842294
+      GasGiant2_8_48: 4368109968001586838
+      GasGiant2_8_49: -8970284401646943807
+      GasGiant2_8_5: -7889292755414871249
+      GasGiant2_8_50: 3438145074768728953
+      GasGiant2_8_51: -5094267096790969305
+      GasGiant2_8_52: 538268492138229695
+      GasGiant2_8_53: 9205256714520255103
+      GasGiant2_8_54: 2992691678964992309
+      GasGiant2_8_55: 5567381139428136855
+      GasGiant2_8_56: -4983394058893693172
+      GasGiant2_8_57: -928888160045721320
+      GasGiant2_8_58: -4941992147897652623
+      GasGiant2_8_59: -8213138217503725114
+      GasGiant2_8_6: -3140789686073749334
+      GasGiant2_8_60: 5750596668402370162
+      GasGiant2_8_61: -1105109313246758960
+      GasGiant2_8_62: -378095765116933306
+      GasGiant2_8_63: -3643136168795601416
+      GasGiant2_8_64: 1117809186873966416
+      GasGiant2_8_65: -5592945757339605412
+      GasGiant2_8_66: 7528415866328591933
+      GasGiant2_8_67: 6862393520616662077
+      GasGiant2_8_68: -1136159152427278561
+      GasGiant2_8_69: 9009943692082809819
+      GasGiant2_8_7: 3152315454424550222
+      GasGiant2_8_70: 6572152527588576854
+      GasGiant2_8_71: -794750295948651689
+      GasGiant2_8_72: -2536849517497319975
+      GasGiant2_8_73: 7647311526240030443
+      GasGiant2_8_74: -4853892608410622752
+      GasGiant2_8_75: -5710499869051170237
+      GasGiant2_8_76: 8922552584986821164
+      GasGiant2_8_77: 495546802248110214
+      GasGiant2_8_78: 3511435866171915415
+      GasGiant2_8_79: 309993804164895532
+      GasGiant2_8_8: -8799922330214886611
+      GasGiant2_8_80: -1593522831564158080
+      GasGiant2_8_81: 1877942653535227541
+      GasGiant2_8_82: -7466727724948786176
+      GasGiant2_8_83: -5461304337678325999
+      GasGiant2_8_84: -2826255961301630889
+      GasGiant2_8_85: -1504842365052216220
+      GasGiant2_8_86: 6787684809369738398
+      GasGiant2_8_87: 5475560683624365576
+      GasGiant2_8_88: -3611722913264593654
+      GasGiant2_8_89: -7806718027484103085
+      GasGiant2_8_9: 2353092305997980616
+      GasGiant2_8_90: -6805062442160947869
+      GasGiant2_8_91: 4005935476546387948
+      GasGiant2_8_92: 3283576335258860111
+      GasGiant2_8_93: 3599843286739144151
+      GasGiant2_8_94: 9070815400808221375
+      GasGiant2_8_95: -7275766073554722114
+      GasGiant2_8_96: 3763268448436982712
+      GasGiant2_8_97: -8573029717929933974
+      GasGiant2_8_98: -4519773286333973728
+      GasGiant2_8_99: -8785825970251293590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

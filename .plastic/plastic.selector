@@ -1,0 +1,4 @@
+repository "SolarDrift.io 2025-06-05_19-14-34/SolarDrift.io@20067465294131@cloud"
+  path "/"
+    br "/main"
+    co "/main"
